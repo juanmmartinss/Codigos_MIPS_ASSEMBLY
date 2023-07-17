@@ -1,0 +1,7 @@
+Sinal zero na ALU:
+indica se será efetuado um desvio condicional. Indica se o resultado da última operação na ALU foi zero. Tem
+o valor zero sempre que uma instrução lw ou sw estiver sendo executada
+
+Instruções que precisam utilizar a unidade lógica e aritmetica durante sua exucução:
+Todas estao corretas. ABC, ou seja: jump e jump and link nao passam pela ULA
+
